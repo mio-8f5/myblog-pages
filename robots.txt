@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://mio-8f5.github.io/myblog-pages/sitemap.xml
